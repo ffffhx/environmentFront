@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": ["element-plus/global"]
+  },
+  "exclude": ["node_modules", "dist"]
+}
+
+// // tsconfig.json
+// {
+//   "compilerOptions": {
+//     // ...
+//     "types": ["element-plus/global"]
+//   }
+// }

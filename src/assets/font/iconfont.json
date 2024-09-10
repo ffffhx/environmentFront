@@ -1,0 +1,135 @@
+{
+  "id": "4671482",
+  "name": "environment",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "41640700",
+      "name": "音效",
+      "font_class": "a-shengyinyinxiaoduomeiti",
+      "unicode": "e9c0",
+      "unicode_decimal": 59840
+    },
+    {
+      "icon_id": "41640701",
+      "name": "视频多媒体",
+      "font_class": "a-shipinduomeiti",
+      "unicode": "e9c1",
+      "unicode_decimal": 59841
+    },
+    {
+      "icon_id": "41640702",
+      "name": "游戏手柄",
+      "font_class": "youxishoubing",
+      "unicode": "e9c2",
+      "unicode_decimal": 59842
+    },
+    {
+      "icon_id": "41640703",
+      "name": "光盘光碟备份",
+      "font_class": "a-guangpanguangdiebeifenduomeitiyinleshipin",
+      "unicode": "e9c3",
+      "unicode_decimal": 59843
+    },
+    {
+      "icon_id": "41640704",
+      "name": "相册多媒体",
+      "font_class": "a-xiangceduomeiti",
+      "unicode": "e9c4",
+      "unicode_decimal": 59844
+    },
+    {
+      "icon_id": "41640705",
+      "name": "图片照片相册",
+      "font_class": "a-tupianzhaopianxiangce",
+      "unicode": "e9c5",
+      "unicode_decimal": 59845
+    },
+    {
+      "icon_id": "41640706",
+      "name": "幻灯片ppt",
+      "font_class": "a-huandengpianpptyanshiduomeiti",
+      "unicode": "e9c6",
+      "unicode_decimal": 59846
+    },
+    {
+      "icon_id": "41640707",
+      "name": "耳机",
+      "font_class": "a-erjiyinleduomeiti",
+      "unicode": "e9c7",
+      "unicode_decimal": 59847
+    },
+    {
+      "icon_id": "41640708",
+      "name": "照片图片相册",
+      "font_class": "a-zhaopiantupianxiangce",
+      "unicode": "e9c8",
+      "unicode_decimal": 59848
+    },
+    {
+      "icon_id": "41640709",
+      "name": "图片照片",
+      "font_class": "a-tupianzhaopian",
+      "unicode": "e9c9",
+      "unicode_decimal": 59849
+    },
+    {
+      "icon_id": "41640710",
+      "name": "幻灯片ppt",
+      "font_class": "a-huandengpianpptyanshijiaoxue",
+      "unicode": "e9ca",
+      "unicode_decimal": 59850
+    },
+    {
+      "icon_id": "41640711",
+      "name": "相册相机照片",
+      "font_class": "a-xiangcexiangjizhaopiantupian",
+      "unicode": "e9cb",
+      "unicode_decimal": 59851
+    },
+    {
+      "icon_id": "41640712",
+      "name": "幻灯片ppt",
+      "font_class": "a-huandengpianpptbaogaoyanshi",
+      "unicode": "e9cc",
+      "unicode_decimal": 59852
+    },
+    {
+      "icon_id": "41640714",
+      "name": "停止播放",
+      "font_class": "a-tingzhibofangduomeiti",
+      "unicode": "e9cd",
+      "unicode_decimal": 59853
+    },
+    {
+      "icon_id": "41640715",
+      "name": "端口多媒体",
+      "font_class": "a-duankouduomeiti",
+      "unicode": "e9ce",
+      "unicode_decimal": 59854
+    },
+    {
+      "icon_id": "41640716",
+      "name": "端子端口",
+      "font_class": "a-sduanziduankouduomeiti",
+      "unicode": "e9cf",
+      "unicode_decimal": 59855
+    },
+    {
+      "icon_id": "41640717",
+      "name": "vr虚拟现实",
+      "font_class": "a-vrxunixianshiduomeiti",
+      "unicode": "e9d0",
+      "unicode_decimal": 59856
+    },
+    {
+      "icon_id": "41640718",
+      "name": "磁带录音",
+      "font_class": "a-cidailuyinduomeiti",
+      "unicode": "e9d1",
+      "unicode_decimal": 59857
+    }
+  ]
+}

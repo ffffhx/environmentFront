@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4671482 */
+  src: url('iconfont.woff2?t=1725266610259') format('woff2'),
+       url('iconfont.woff?t=1725266610259') format('woff'),
+       url('iconfont.ttf?t=1725266610259') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-shengyinyinxiaoduomeiti:before {
+  content: "\e9c0";
+}
+
+.icon-a-shipinduomeiti:before {
+  content: "\e9c1";
+}
+
+.icon-youxishoubing:before {
+  content: "\e9c2";
+}
+
+.icon-a-guangpanguangdiebeifenduomeitiyinleshipin:before {
+  content: "\e9c3";
+}
+
+.icon-a-xiangceduomeiti:before {
+  content: "\e9c4";
+}
+
+.icon-a-tupianzhaopianxiangce:before {
+  content: "\e9c5";
+}
+
+.icon-a-huandengpianpptyanshiduomeiti:before {
+  content: "\e9c6";
+}
+
+.icon-a-erjiyinleduomeiti:before {
+  content: "\e9c7";
+}
+
+.icon-a-zhaopiantupianxiangce:before {
+  content: "\e9c8";
+}
+
+.icon-a-tupianzhaopian:before {
+  content: "\e9c9";
+}
+
+.icon-a-huandengpianpptyanshijiaoxue:before {
+  content: "\e9ca";
+}
+
+.icon-a-xiangcexiangjizhaopiantupian:before {
+  content: "\e9cb";
+}
+
+.icon-a-huandengpianpptbaogaoyanshi:before {
+  content: "\e9cc";
+}
+
+.icon-a-tingzhibofangduomeiti:before {
+  content: "\e9cd";
+}
+
+.icon-a-duankouduomeiti:before {
+  content: "\e9ce";
+}
+
+.icon-a-sduanziduankouduomeiti:before {
+  content: "\e9cf";
+}
+
+.icon-a-vrxunixianshiduomeiti:before {
+  content: "\e9d0";
+}
+
+.icon-a-cidailuyinduomeiti:before {
+  content: "\e9d1";
+}
+
